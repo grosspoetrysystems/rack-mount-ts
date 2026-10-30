@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Report a rack-mount-ts vulnerability
-    url: https://github.com/grosspoetrysystems/rack-mount-ts/security/advisories/new
-    about: Send security reports privately.
-  - name: Report conduct or abuse
-    url: https://support.github.com/contact/report-abuse
-    about: Include the relevant rack-mount-ts URL.
